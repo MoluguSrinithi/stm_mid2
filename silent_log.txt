@@ -1,0 +1,8 @@
+Oct 07, 2026 9:49:29 AM Exp9 test
+INFO: Addition PASS
+Oct 07, 2026 9:49:29 AM Exp9 test
+SEVERE: Sub FAIL
+Oct 07, 2026 9:49:29 AM Exp9 test
+INFO: multiplication PASS
+Oct 07, 2026 9:49:29 AM Exp9 test
+INFO: String PASS
